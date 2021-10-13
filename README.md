@@ -3,7 +3,7 @@
 ### I'm 20 yo, live in St.Petersburg, Russia In this repo you can find information about me, my experience in gamedev and other stuff
 ![Skills](./docs/img/skills.png)
 
-## My first public game "Kill the Tigra":
+## My first public game "Kill the Tigra", 2016:
 The idea was to make a game about popular russian youtuber BrianMaps, so that he could film a video about it and attract his fans to play it. (spoiler - it didn't work out)  
 ![KillTheTigra](./docs/gif/KillTheTigra.gif)
 
